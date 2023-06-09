@@ -63,5 +63,5 @@ func getAttractions(c *gin.Context) {
 		log.Fatal(err)
 	}
 	c.IndentedJSON(http.StatusOK, attractions)
-	//ttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt
+	//tttttttttttttttttttttttttkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
 }
